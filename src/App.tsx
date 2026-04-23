@@ -3,7 +3,7 @@ import { HomePage } from './pages/HomePage';
 
 function App() {
   return (
-    <Layout title="Casino Lobby" subtitle="Browse our games">
+    <Layout title="Lucky 7 Lobby" subtitle="Your next winning game awaits">
       <HomePage />
     </Layout>
   );
